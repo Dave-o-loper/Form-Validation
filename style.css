@@ -30,6 +30,7 @@
     color: white;
     background: rgb(41, 57, 194);
     border: none;
+    cursor: pointer;
     border-radius: 4px;
   }
 
@@ -63,4 +64,5 @@
         color: #e74c3c;
         font-size: 9px;
         height: 13px;
+
     }
